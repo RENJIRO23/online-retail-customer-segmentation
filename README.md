@@ -30,6 +30,6 @@ Proyek ini memetakan segmen pelanggan e-commerce menggunakan analisis **RFM (Rec
 
 ---
 
-## ech Stack
+## Tech Stack
 * **Language:** Python
 * **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
